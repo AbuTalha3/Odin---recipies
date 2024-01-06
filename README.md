@@ -32,5 +32,16 @@ To run the Odin Recipes App locally:
 - **Delete a Recipe**: Click on the recipe and use the "Delete" button to remove it from the collection.
 - **View Recipe Details**: Click on any recipe to view its full details.
 
+## Contribution
+
+Contributions to the Odin Recipes App are welcome! If you want to contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/awesome-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/awesome-feature`).
+6. Create a new Pull Request.
+
 
 
