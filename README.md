@@ -47,5 +47,7 @@ Contributions to the Odin Recipes App are welcome! If you want to contribute, fo
 
 This app is part of The Odin Project's curriculum, designed to help learners practice HTML, CSS, and JavaScript skills.
 
+## License
 
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
