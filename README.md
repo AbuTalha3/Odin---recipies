@@ -25,7 +25,7 @@ To run the Odin Recipes App locally:
 ## Usage
 
 - **Create a Recipe**: Click on the "`Add Recipe`" button and fill in the required fields (name, ingredients, instructions).
-- **Edit a Recipe**: Click on the recipe you want to edit, then use the "Edit" button to modify the recipe details.
+- **Edit a Recipe**: Click on the recipe you want to edit, then use the `"Edit"` button to modify the recipe details.
 - **Delete a Recipe**: Click on the recipe and use the "Delete" button to remove it from the collection.
 - **View Recipe Details**: Click on any recipe to view its full details.
 
