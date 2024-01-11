@@ -1,7 +1,7 @@
 # Odin Recipes App
 A task from **The Odin Project**. The recipes project is made with the help of `HTML` and `CSS`. The **Odin Recipes App** is a web application designed to manage and display recipes. Users can create, edit, and delete recipes, as well as view existing recipes. This app provides a simple and intuitive interface for organizing cooking instructions, ingredients, and other details for various dishes.
 
-## Features
+## Basic Features
 
 - **Create Recipes**: Users can add new recipes to the app by providing `recipe names`, `ingredients`, `cooking instructions`, and `optional details` like prep time, serving size, etc.
 - **Edit and Delete Recipes**: Existing recipes can be edited or removed from the collection.
