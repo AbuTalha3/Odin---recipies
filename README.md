@@ -3,7 +3,7 @@ A task from **The Odin Project**. The recipes project is made with the help of `
 
 ## Features
 
-- **Create Recipes**: Users can add new recipes to the app by providing recipe names, ingredients, `cooking instructions`, and optional details like prep time, serving size, etc.
+- **Create Recipes**: Users can add new recipes to the app by providing recipe names, `ingredients`, `cooking instructions`, and optional details like prep time, serving size, etc.
 - **Edit and Delete Recipes**: Existing recipes can be edited or removed from the collection.
 - **View Recipes**: All recipes are displayed in a *user-friendly format*, allowing users to easily browse and access recipe details.
 
