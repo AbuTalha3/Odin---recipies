@@ -40,6 +40,9 @@ Contributions to the Odin Recipes App are always welcome! If you want to contrib
 5. Push to the branch (`git push origin feature/awesome-feature`).
 6. Create a new Pull Request.
 
+## Star it!
+If you like the project give it a star!
+
 ## Credits
 
 This app is part of The Odin Project's curriculum, designed to help learners practice `HTML`, `CSS`, and `JavaScript` skills.
