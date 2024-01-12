@@ -31,7 +31,7 @@ To run the **Odin Recipes App** locally:
 
 ## Contribution
 
-Contributions to the Odin Recipes App are welcome! If you want to contribute, follow these steps:
+Contributions to the Odin Recipes App are always welcome! If you want to contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/awesome-feature`).
