@@ -41,7 +41,7 @@ Contributions to the Odin Recipes App are always welcome! If you want to contrib
 6. Create a new Pull Request.
 
 ## Star it!
-If you like the project give it a star!
+If you like the project give it a star! and follow on GitHub.
 
 ## Credits
 
