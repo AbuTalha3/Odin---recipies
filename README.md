@@ -35,7 +35,7 @@ Contributions to the Odin Recipes App are always welcome! If you want to contrib
 
 1. Fork this repository.
 2. Create a new branch (`git checkout -b feature/awesome-feature`).
-3. Make your changes.
+3. Make your own changes.
 4. Commit your changes (`git commit -am 'Add some feature'`).
 5. Push to the branch (`git push origin feature/awesome-feature`).
 6. Create a new Pull Request.
