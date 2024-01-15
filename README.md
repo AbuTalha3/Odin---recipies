@@ -49,5 +49,5 @@ If you like the project give it a star! and follow on `GitHub`.
 - I would like to thank `The Odin Project` for giving me opportunity to make this project.
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is also licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
