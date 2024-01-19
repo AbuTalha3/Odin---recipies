@@ -45,7 +45,7 @@ If you like the project give it a *star!* and follow on **`GitHub`**.
 
 ## Credits
 
-- This app is part of `The Odin Project`'s curriculum, designed to help learners practice **`HTML`**, `CSS`, and `JavaScript` skills.
+- This app is part of `The Odin Project`'s curriculum, designed to help learners practice **`HTML`**, **`CSS`**, and `JavaScript` skills.
 - I would like to thank `The Odin Project` for giving me the opportunity to do this project.
 ## License
 
