@@ -38,7 +38,7 @@ Contributions to the **Odin Recipes App** are always welcome! If you want to con
 3. Make your changes.
 4. Commit your changes (`git commit -am 'Add some feature'`).
 5. Push to the branch (`git push origin feature/awesome-feature`).
-6. Create a new Pull Request.
+6. Create a new `Pull Request`.
 
 ## Star it!
 If you like the project give it a *star!* and follow on `GitHub`.
