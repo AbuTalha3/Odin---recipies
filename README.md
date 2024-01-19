@@ -35,7 +35,7 @@ Contributions to the **Odin Recipes App** are always welcome! If you want to con
 
 1. Fork this repository.
 2. Create a new branch (`git checkout -b feature/awesome-feature`).
-3. Make your own changes.
+3. Make your changes.
 4. Commit your changes (`git commit -am 'Add some feature'`).
 5. Push to the branch (`git push origin feature/awesome-feature`).
 6. Create a new Pull Request.
@@ -45,8 +45,8 @@ If you like the project give it a *star!* and follow on `GitHub`.
 
 ## Credits
 
-- This app is actually part of `The Odin Project`'s curriculum, designed to help learners practice `HTML`, `CSS`, and `JavaScript` skills.
-- I would like to thank `The Odin Project` for giving me opportunity to make this project.
+- This app is part of `The Odin Project`'s curriculum, designed to help learners practice **`HTML`**, `CSS`, and `JavaScript` skills.
+- I would like to thank `The Odin Project` for giving me the opportunity to make this project.
 ## License
 
 This project is also licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
