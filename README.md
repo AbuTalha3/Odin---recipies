@@ -20,7 +20,7 @@ To run the **Odin Recipes App** locally:
 
 1. Clone this **repository** to your local machine: `git clone https://github.com/AbuTalha3/odin-recipes.git`
 2. Navigate to the project directory in **Git** or **VS Code**.
-3. Open `index.html` in your preferred web browser.
+3. Open **`index.html`** in your preferred web browser.
 
 ## Usage
 
