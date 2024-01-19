@@ -41,7 +41,7 @@ Contributions to the **Odin Recipes App** are always welcome! If you want to con
 6. Create a new `Pull Request`.
 
 ## Star it!
-If you like the project give it a *star!* and follow on `GitHub`.
+If you like the project give it a *star!* and follow on **`GitHub`**.
 
 ## Credits
 
