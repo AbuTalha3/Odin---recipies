@@ -46,7 +46,7 @@ If you like the project give it a *star!* and follow on **`GitHub`**.
 ## Credits
 
 - This app is part of **`The Odin Project`**'s curriculum, designed to help learners practice **` Hyper Text Markup Language`**, **`Cascading Styles Sheet`**, and **`JavaScript`** skills.
-- I would like to thank `The Odin Project` for providing me the opportunity to do this project.
+- I would like to thank **`The Odin Project`** for providing me the opportunity to do this project.
 ## License
 
 This project is also licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
