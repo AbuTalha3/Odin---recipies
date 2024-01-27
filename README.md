@@ -9,7 +9,7 @@ A task from **The Odin Project**. The recipes project is made with the help of `
 
 ## Technologies Used
 
-- **`HTML`**: Used for structuring the `web pages` and content.
+- **`Hyper text Markup Language`**: Used for structuring the `web pages` and content.
 - **`CSS`**: Provides styles and layouts for an enhanced `user interface`.
 - **`JavaScript`**: Adds interactivity and `functionality` to the app.
 - **`Backend Server` (Optional)**: This app can utilize a backend server for `data storage` and `retrieval`, enabling data persistence.
